@@ -4,7 +4,7 @@ I am a senior at the University of Pittsburgh, and am currently pursuing a BS in
 
 I use Github to work and collaborate on projects for school as well as for some personal side projects! I hope you find something here that interests you! :)
 
-![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)
+![](https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif)
 
 <!--
 **hannahharhai/hannahharhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
