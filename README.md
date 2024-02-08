@@ -1,6 +1,8 @@
 ### Hi! My name is Hannah Harhai!
 
 > [!abstract] WEEK 1
+>
+> 
 
 I am a senior at the University of Pittsburgh, and am currently pursuing a BS in Computer Science from the School of Computing and Information. Currently, my interests in the field include Machine Learning, Full Stack Development, and Cloud Computing.
 
